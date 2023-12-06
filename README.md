@@ -25,5 +25,11 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 | screen | Allow open a new window and make a parallel process in it - Permite hacer procesos pararlelos en linux en una nueva ventana |
 | ls -lh | Allow list a folder and watch the file size of each one - Permite listar una carpeta y ver cuanto pesan los archivos listados con numero entendibles |
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-
+### My skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,nodejs,sequelize,prisma" />
+  </a>
+</p>

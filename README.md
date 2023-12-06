@@ -56,6 +56,6 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 </p>
 
 <p>
-  <img src=">https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src=	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white />
 </p>
 

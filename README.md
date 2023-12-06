@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5199F7&background=FFFFFF00&center=true&random=false&width=435&lines=Hi++there++Topabli++here++%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D34B2&background=FFFFFF00&center=true&random=false&width=435&lines=Hi++there++Topabli++here++%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 
 <!--
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm **Pablo Vera** 👋. I graduated with a degree in ***Connectivity and Networks Engineering***,
+### I'm Pablo Vera 👋. 
+I graduated with a degree in ***Connectivity and Networks Engineering***,
 but I am currently steering my career towards development because I love this field. 
 That's why I am currently completing a ***full-stack JavaScript*** bootcamp.
 ### I like to learn about new technologies, play music and videogames.

@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Topabli+here+full+stack+dev)](https://git.io/typing-svg)
+### 
 
 <!--
 **Topabli2/Topabli2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

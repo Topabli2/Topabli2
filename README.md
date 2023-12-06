@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Pablo Vera 👋, a **Javascript Full-Stack** developer
+Pablo Vera 👋, a **Javascript Full-Stack** developer
 ### I like to learn about new technologies, play music and videogames.
 Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 
 🔭 I’m currently working on my final project at **Henry's bootcamp**
 🌱 I’m currently learning NextJs 14 
+📫 Please contact me by LinkedIn, below. ⬇️
 
 ### My skills 🤹
 <p align="center">

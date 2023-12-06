@@ -30,6 +30,6 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 ### My skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,nodejs,sequelize,prisma" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,vercel,nextjs,nodejs,sequelize,prisma,supabase,postgres" />
   </a>
 </p>

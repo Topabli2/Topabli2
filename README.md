@@ -26,7 +26,6 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 - 📫 Please feel free to contact me via LinkedIn, below. ⬇️
 - 🗣️ Languages: **ESP** - **ENG**
   
-----------------------------------  
 
 ## 🎆 Things that I like
 
@@ -35,7 +34,6 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 - Geekiness is part of my DNA.
 - Travel is life.
    
-----------------------------------
 
 ## My skills 🤹
 <p>
@@ -44,17 +42,20 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
   </a>
 </p>
 
-----------------------------------
 
-### My LinkedIn 📲
+## My LinkedIn 📲
 <p>
   <a href="https://www.linkedin.com/in/pablo-vera-744676161/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
+## Miscellaneous Info:
+
 <p>
-  <img src=	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white />
-  <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white/>
+  <img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white />
+  <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white />
+  <img src=https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E />
+  <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white />
 </p>
 

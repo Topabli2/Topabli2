@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm Pablo Vera 👋. I graduated with a degree in ***Connectivity and Networks Engineering***,
+I'm **Pablo Vera** 👋. I graduated with a degree in ***Connectivity and Networks Engineering***,
 but I am currently steering my career towards development because I love this field. 
 That's why I am currently completing a ***full-stack JavaScript*** bootcamp.
 ### I like to learn about new technologies, play music and videogames.

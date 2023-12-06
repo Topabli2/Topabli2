@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D34B2&background=FFFFFF00&random=false&width=522&lines=Hi++there++Topabli++here++%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=3D34B2&background=FFFFFF00&random=false&width=522&lines=Hi++there++Topabli++here++%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <!--
 **Topabli2/Topabli2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

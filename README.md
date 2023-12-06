@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5199F7&background=FFFFFF00&center=true&random=false&width=435&lines=Hi+there%F0%9F%91%8BTopabli+here" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5199F7&background=FFFFFF00&center=true&random=false&width=435&lines=Hi++there++Topabli++here++%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Pablo Vera 👋, a **Javascript Full-Stack** developer
+I'm Pablo Vera 👋, a **Javascript Full-Stack** developer
 ### I like to learn about new technologies, play music and videogames.
 Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 

@@ -32,7 +32,12 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,vercel,nextjs,nodejs,sequelize,prisma,supabase,postgres,aws,react&perline=4" />
   </a>
-  </br>
+  <a href="https://www.linkedin.com/in/pablo-vera-744676161/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+My ###LinkedIn
+<p align="center">
   <a href="https://www.linkedin.com/in/pablo-vera-744676161/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>

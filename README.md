@@ -30,9 +30,9 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 # Things about me
 
 - 🎆 I like to:
--    Learn about new technologies.
--    Play music and videogames.
--    Geekiness is part of my DNA.
+      -Learn about new technologies.
+      -Play music and videogames.
+      -Geekiness is part of my DNA.
 
 ### My skills 🤹
 <p>

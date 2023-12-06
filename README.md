@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Pablo Vera 👋. 
+# I'm <Pablo Vera> 👋. 
+
+----------------------------------
+
 I graduated with a degree in ***Connectivity and Networks Engineering***,
 but I am currently steering my career towards development because I love this field. 
 That's why I am currently completing a ***full-stack JavaScript*** bootcamp.
-
 Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 
 - 🔭 I’m currently working on my final project at **Henry's bootcamp**
@@ -27,18 +29,25 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 - 📫 Please feel free to contact me via LinkedIn, below. ⬇️
 - 🗣️ Languages: **ESP** - **ENG**
   
+----------------------------------  
+
 ## 🎆 Things that I like
-----------------------------------
+
 - Learn about new technologies.
 - Play music and videogames.
 - Geekiness is part of my DNA.
+- Travel is life.
+   
+----------------------------------
 
-### My skills 🤹
+## My skills 🤹
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,react,redux,vercel,nextjs,nodejs,sequelize,prisma,supabase,postgres,aws,linux" />
   </a>
 </p>
+
+----------------------------------
 
 ### My LinkedIn 📲
 <p>

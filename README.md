@@ -19,18 +19,13 @@ I'm Pablo Vera 👋, a **Javascript Full-Stack** developer
 ### I like to learn about new technologies, play music and videogames.
 Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 
-# Comandos favoritos de linux
-| Command | Description |
-| ------ | ------ |
-| screen | Allow open a new window and make a parallel process in it - Permite hacer procesos pararlelos en linux en una nueva ventana |
-| ls -lh | Allow list a folder and watch the file size of each one - Permite listar una carpeta y ver cuanto pesan los archivos listados con numero entendibles |
-
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+🔭 I’m currently working on my final project at **Henry's bootcamp**
+🌱 I’m currently learning NextJs 14 
 
 ### My skills 🤹
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,vercel,nextjs,nodejs,sequelize,prisma,supabase,postgres,aws,react&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,redux,vercel,nextjs,nodejs,sequelize,prisma,supabase,postgres,aws,linux&perline=4" />
   </a>
 </p>
 

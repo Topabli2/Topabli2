@@ -57,5 +57,6 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
   <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white />
   <img src=https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E />
   <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white />
+  <img src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white />
 </p>
 

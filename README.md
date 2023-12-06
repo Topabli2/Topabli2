@@ -31,7 +31,7 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 </p>
 
 ### My LinkedIn 📲
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/pablo-vera-744676161/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>

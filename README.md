@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 # I'm \<Pablo Vera\> 👋. 
 
-----------------------------------
-
 I graduated with a degree in ***Connectivity and Networks Engineering***,
 but I am currently steering my career towards development because I love this field. 
 That's why I am currently completing a ***full-stack JavaScript*** bootcamp.
@@ -57,5 +55,6 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 
 <p>
   <img src=	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white />
+  <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white/>
 </p>
 

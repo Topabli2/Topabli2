@@ -31,5 +31,6 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,vercel,nextjs,nodejs,sequelize,prisma,supabase,postgres" />
+    <img src="https://skillicons.dev/icons?i=sequelize,prisma,supabase,postgres" />
   </a>
 </p>

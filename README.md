@@ -48,7 +48,7 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
   <a href="https://www.linkedin.com/in/pablo-vera-744676161/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1&color=3D34B2&background=FFFFFF00&vCenter=true&random=false&width=568&height=60&lines=%3C-" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=71&duration=4000&pause=1999&color=3D34B2&background=FFFFFF00&center=true&vCenter=true&random=false&width=622&height=60&lines=%3C-" alt="Typing SVG" /></a>
 </p>
 
 ## Miscellaneous Info:

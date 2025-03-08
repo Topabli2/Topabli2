@@ -38,7 +38,7 @@ Actually im living in Santiago de Chile but i was born in Punta Arenas 🐧
 ## My skills 🤹
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,gcp,azure,aws,postgres,aws,linux,terraform" />
+    <img src="https://skillicons.dev/icons?i=git,linux,html,css,gcp,azure,aws,terraform,postgres" />
   </a>
 </p>
 
